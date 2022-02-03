@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Mélia!</h1>
-<h3 align="center">A fullstack developer from France</h3>
+<h3 align="center">A Ruby on Rails fullstack developer from France</h3>
 
 - 🔭 I’m currently working on **a Ruby/React app**
 
